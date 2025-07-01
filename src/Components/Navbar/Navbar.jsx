@@ -66,7 +66,7 @@ const Navbar = () => {
 
                 {/* Navbar End */}
                 <div className="navbar-end">
-                    <a className="btn rounded-full px-9 text-green-500 bg-gray-900 shadow-2xl">Login</a>
+                    <a className="btn rounded-full px-9 text-[#3A59D1] bg-gray-900 shadow-2xl">Login</a>
                 </div>
             </div>
         </div>
